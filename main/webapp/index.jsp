@@ -24,7 +24,7 @@
 				</tr>
 				<tr>
 					<td>Contraseña:</td>
-					<td><input type="text" name="txtClave" required></td>
+					<td><input type="password" name="txtClave" required></td>
 				</tr>
 				<tr>
 					<td colspan="2" align="right"><input type="submit"
